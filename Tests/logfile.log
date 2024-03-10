@@ -1,0 +1,46 @@
+2024-01-31 22:29:59,203 : INFO : test_e2e2 : getting all the card titles
+2024-01-31 22:29:59,375 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-01-31 22:29:59,552 : INFO : test_e2e2 : entering country name as ind
+2024-01-31 22:30:04,831 : INFO : test_e2e2 : getting country name
+2024-01-31 22:30:07,576 : INFO : test_e2e2 : text recieved from the applicatiom is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-31 22:40:49,448 : INFO : test_e2e2 : getting all the card titles
+2024-01-31 22:40:49,629 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-01-31 22:40:49,779 : INFO : test_e2e2 : entering country name as ind
+2024-01-31 22:40:54,970 : INFO : test_e2e2 : getting country name
+2024-01-31 22:40:55,156 : INFO : test_e2e2 : text recieved from the applicatiom is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-31 23:14:11,302 : INFO : test_e2e2 : getting all the card titles
+2024-01-31 23:14:11,476 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-01-31 23:14:11,652 : INFO : test_e2e2 : entering country name as ind
+2024-01-31 23:14:16,845 : INFO : test_e2e2 : getting country name
+2024-01-31 23:14:17,029 : INFO : test_e2e2 : text recieved from the applicatiom is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-01-31 23:18:46,911 : INFO : test_e2e2 : getting all the card titles
+2024-01-31 23:18:47,091 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-01-31 23:18:47,255 : INFO : test_e2e2 : entering country name as ind
+2024-01-31 23:18:52,440 : INFO : test_e2e2 : getting country name
+2024-01-31 23:18:52,619 : INFO : test_e2e2 : text recieved from the applicatiom is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-02-01 00:07:59,480 : INFO : test_e2e2 : getting all the card titles
+2024-02-01 00:07:59,951 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-02-01 00:08:00,992 : INFO : test_e2e2 : entering country name as ind
+2024-02-01 00:08:06,551 : INFO : test_e2e2 : getting country name
+2024-02-08 19:16:42,586 : INFO : test_e2e2 : getting all the card titles
+2024-02-08 19:16:43,436 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-02-08 19:16:43,745 : INFO : test_e2e2 : entering country name as ind
+2024-02-08 19:16:49,065 : INFO : test_e2e2 : getting country name
+2024-02-08 20:04:36,076 : INFO : test_e2e2 : getting all the card titles
+2024-02-08 20:04:36,252 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-02-08 20:04:36,410 : INFO : test_e2e2 : entering country name as ind
+2024-02-08 20:04:41,609 : INFO : test_e2e2 : getting country name
+2024-02-08 20:21:25,133 : INFO : test_e2e2 : getting all the card titles
+2024-02-08 20:21:25,331 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-02-08 20:21:25,531 : INFO : test_e2e2 : entering country name as ind
+2024-02-08 20:21:30,667 : INFO : test_e2e2 : getting country name
+2024-02-08 23:12:08,511 : INFO : test_e2e2 : getting all the card titles
+2024-02-08 23:12:09,381 : INFO : test_e2e2 : ['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-02-08 23:12:10,003 : INFO : test_e2e2 : entering country name as ind
+2024-02-08 23:12:15,792 : INFO : test_e2e2 : getting country name
+2024-02-08 23:12:16,345 : INFO : test_e2e2 : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
